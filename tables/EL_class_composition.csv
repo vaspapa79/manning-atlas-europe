@@ -1,0 +1,42 @@
+grid_code,class,area_km2,area_pct,n_best
+28,Sclerophyllous vegetation,23171.2,17.64,0.05
+23,Broad-leaved forest,12758.3,9.71,0.12
+12,Non-irrigated arable land,11757.1,8.95,0.035
+21,Land principally occupied by agriculture with natural vegetation,11452.4,8.72,0.045
+29,Transitional woodland-shrub,10813.1,8.23,0.06
+26,Natural grasslands,9727.5,7.4,0.035
+13,Permanently irrigated land,8769.8,6.67,0.035
+17,Olive groves,8250.9,6.28,0.05
+24,Coniferous forest,7638.9,5.81,0.12
+20,Complex cultivation patterns,6872.5,5.23,0.04
+25,Mixed forest,5931.2,4.51,0.12
+32,Sparsely vegetated areas,2747.5,2.09,0.03
+2,Discontinuous urban fabric,2290.3,1.74,0.013
+16,Fruit trees and berry plantations,1476.0,1.12,0.05
+18,Pastures,1399.6,1.07,0.035
+41,Water bodies,963.0,0.73,0.03
+15,Vineyards,808.6,0.62,0.045
+3,Industrial or commercial units,605.2,0.46,0.013
+27,Moors and heathland,510.1,0.39,0.045
+14,Rice fields,397.7,0.3,0.045
+7,Mineral extraction sites,333.3,0.25,0.025
+37,Salt marshes,316.5,0.24,0.06
+31,Bare rocks,302.3,0.23,0.03
+4,Road and rail networks and associated land,284.7,0.22,0.016
+30,Beaches dunes sands,274.4,0.21,0.03
+40,Water courses,266.9,0.2,0.035
+1,Continuous urban fabric,261.6,0.2,0.015
+11,Sport and leisure facilities,238.4,0.18,0.032
+35,Inland marshes,235.4,0.18,0.06
+6,Airports,128.4,0.1,0.016
+33,Burnt areas,125.4,0.1,0.028
+42,Coastal lagoons,104.7,0.08,0.025
+9,Construction sites,61.0,0.05,0.028
+38,Salines,33.0,0.03,0.03
+43,Estuaries,19.4,0.01,0.025
+19,Annual crops associated with permanent crops,18.5,0.01,0.04
+10,Green urban areas,17.0,0.01,0.035
+5,Port areas,14.8,0.01,0.016
+8,Dump sites,9.4,0.01,0.028
+22,Agro-forestry areas,1.2,0.0,0.06
+36,Peat bogs,0.6,0.0,0.05

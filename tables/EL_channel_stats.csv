@@ -1,0 +1,8 @@
+scenario,channel_pixels,channel_mean_n
+low,328312,0.0389
+best,328312,0.0571
+high,328312,0.0943
+# channel_pixels,328312
+# channel_length_km,25856.7
+# channel_area_fraction_pct,2.499
+# n_reaches,6094

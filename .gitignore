@@ -1,0 +1,32 @@
+# credentials, never commit
+clms_apikey.json
+*.pem
+*.key
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# third-party inputs and raster products: see README
+data/
+outputs/
+*.tif
+*.tiff
+*.vrt
+*.nc
+*.npz
+
+# the Deltares solver and the grids it is given
+sfincs/rel/
+*.exe
+*.dll
+*.msk
+*.ind
+*.dep
+*.man
+*.dis
+
+*.zip
+*.docx
+.DS_Store
+Thumbs.db

@@ -1,0 +1,5 @@
+iso,name,convention,n_cells,n_blocks,cells_per_block,eff_sample_ratio,lin_ccc,ccc_p025,ccc_p975,ccc_sd,bias,bias_p025,bias_p975
+LU,Luxembourg,A_parameter_average,259603,104,2500,0.000401,0.782,0.765,0.798,0.0083,-0.0084,-0.0094,-0.0073
+LU,Luxembourg,B_majority_class,259603,104,2500,0.000401,0.726,0.709,0.746,0.0092,-0.0081,-0.0091,-0.0071
+ME,Montenegro,A_parameter_average,1387179,555,2500,0.0004,0.66,0.642,0.676,0.0087,-0.0101,-0.0111,-0.0093
+ME,Montenegro,B_majority_class,1387179,555,2500,0.0004,0.592,0.573,0.61,0.0093,-0.0114,-0.0123,-0.0104

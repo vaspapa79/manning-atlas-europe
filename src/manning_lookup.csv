@@ -1,0 +1,45 @@
+grid_code,clc_code,label,n_min,n_best,n_max,source,notes
+1,111,Continuous urban fabric,0.011,0.015,0.100,Chow1959;Kalyanapu2009;Schubert-Sanders2012,Impervious paved surfaces; effective n raised by buildings in 2D flood models
+2,112,Discontinuous urban fabric,0.011,0.013,0.090,Kalyanapu2009;Vorogushyn2010,Mixed paved and vegetated; obstruction by structures
+3,121,Industrial or commercial units,0.011,0.013,0.080,Chow1959;Schubert-Sanders2012,Large impervious surfaces
+4,122,Road and rail networks and associated land,0.011,0.016,0.050,Chow1959,Smooth paved corridors
+5,123,Port areas,0.011,0.016,0.050,Chow1959,Paved/hardstanding
+6,124,Airports,0.011,0.016,0.040,Chow1959,Runways and grass aprons
+7,131,Mineral extraction sites,0.018,0.025,0.050,Chow1959;expert,Bare disturbed ground
+8,132,Dump sites,0.018,0.028,0.050,Chow1959;expert,Irregular bare/waste ground
+9,133,Construction sites,0.018,0.028,0.050,Chow1959;expert,Bare disturbed ground
+10,141,Green urban areas,0.025,0.035,0.060,Chow1959;Kalyanapu2009,Parks, mown grass with trees
+11,142,Sport and leisure facilities,0.020,0.032,0.050,Chow1959;Kalyanapu2009,Mixed grass and paved
+12,211,Non-irrigated arable land,0.020,0.035,0.060,Arcement-Schneider1989;Chow1959,Cultivated crops
+13,212,Permanently irrigated land,0.020,0.035,0.060,Arcement-Schneider1989;Chow1959,Irrigated crops
+14,213,Rice fields,0.025,0.045,0.090,Chow1959,Flooded fields with emergent vegetation
+15,221,Vineyards,0.030,0.045,0.070,Arcement-Schneider1989,Row crops with woody stems
+16,222,Fruit trees and berry plantations,0.035,0.050,0.080,Arcement-Schneider1989,Orchards with trunks
+17,223,Olive groves,0.035,0.050,0.080,Arcement-Schneider1989,Widely spaced trees
+18,231,Pastures,0.025,0.035,0.050,Chow1959;Engman1986,Grassland short to medium grass
+19,241,Annual crops associated with permanent crops,0.025,0.040,0.060,Arcement-Schneider1989;Chow1959,Mixed crops
+20,242,Complex cultivation patterns,0.025,0.040,0.065,Arcement-Schneider1989;Chow1959,Mosaic of small fields
+21,243,Land principally occupied by agriculture with natural vegetation,0.030,0.045,0.070,Arcement-Schneider1989,Agriculture with scattered natural vegetation
+22,244,Agro-forestry areas,0.040,0.060,0.090,Arcement-Schneider1989,Trees over crops/pasture
+23,311,Broad-leaved forest,0.080,0.120,0.160,Arcement-Schneider1989,Dense trees heavy undergrowth
+24,312,Coniferous forest,0.080,0.120,0.160,Arcement-Schneider1989,Dense trees
+25,313,Mixed forest,0.080,0.120,0.160,Arcement-Schneider1989,Dense trees
+26,321,Natural grasslands,0.025,0.035,0.050,Chow1959,Short prairie grass
+27,322,Moors and heathland,0.030,0.045,0.070,Chow1959;Arcement-Schneider1989,Low shrubs and heath
+28,323,Sclerophyllous vegetation,0.035,0.050,0.080,Arcement-Schneider1989,Maquis/garrigue shrubland
+29,324,Transitional woodland-shrub,0.040,0.060,0.100,Arcement-Schneider1989;Chow1959,Shrubs and young trees
+30,331,Beaches dunes sands,0.020,0.030,0.045,Chow1959,Bare sand light obstruction
+31,332,Bare rocks,0.020,0.030,0.045,Chow1959,Rock surfaces
+32,333,Sparsely vegetated areas,0.020,0.030,0.050,Chow1959,Sparse low vegetation
+33,334,Burnt areas,0.018,0.028,0.050,Chow1959;expert,Recently burnt little vegetation
+34,335,Glaciers and perpetual snow,0.010,0.020,0.030,expert,Smooth ice/snow
+35,411,Inland marshes,0.035,0.060,0.100,Chow1959;Arcement-Schneider1989,Dense emergent wetland vegetation
+36,412,Peat bogs,0.030,0.050,0.080,Chow1959;Arcement-Schneider1989,Saturated bog with low vegetation
+37,421,Salt marshes,0.035,0.060,0.100,Chow1959;Arcement-Schneider1989,Coastal emergent vegetation
+38,422,Salines,0.020,0.030,0.045,Chow1959;expert,Salt pans bare
+39,423,Intertidal flats,0.018,0.025,0.040,Chow1959;expert,Mud/sand flats
+40,511,Water courses,0.025,0.035,0.050,Chow1959,River channel bed roughness
+41,512,Water bodies,0.020,0.030,0.045,Chow1959,Lakes/reservoirs open water
+42,521,Coastal lagoons,0.018,0.025,0.035,Chow1959,Sheltered open water
+43,522,Estuaries,0.018,0.025,0.035,Chow1959,Open tidal water
+44,523,Sea and ocean,,,,excluded,Excluded from land roughness product (NoData)

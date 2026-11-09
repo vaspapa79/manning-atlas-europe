@@ -1,0 +1,5 @@
+iso,name,dataset,res_m,area_km2,n_pixels,n_mean,n_median,n_std,n_p05,n_p95,n_min,n_max
+LU,Luxembourg,ESA_WorldCover,10,2596.0,25959838,0.0734,0.035,0.0433,0.02,0.12,0.02,0.12
+LU,Luxembourg,ESA_WorldCover,100,2614.0,261404,0.0734,0.0648,0.0365,0.035,0.12,0.02,0.12
+ME,Montenegro,ESA_WorldCover,10,13881.7,138816925,0.0861,0.12,0.0411,0.035,0.12,0.02,0.12
+ME,Montenegro,ESA_WorldCover,100,13930.0,1393004,0.0861,0.1004,0.0351,0.035,0.12,0.02,0.12

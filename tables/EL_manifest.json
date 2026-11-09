@@ -1,0 +1,47 @@
+{
+  "country": "EL",
+  "scenarios": [
+    "low",
+    "best",
+    "high"
+  ],
+  "inputs": {
+    "corine": "U2018_CLC2018_V2020_20u1.tif",
+    "corine_md5_1MB": "8b9eed4ebcdb",
+    "lookup": "manning_lookup.csv",
+    "lookup_md5": "baa5a9bfc798",
+    "crs": "EPSG:3035",
+    "resolution_m": 100
+  },
+  "stages": {},
+  "results": {
+    "area_km2": 131387.9,
+    "n_best_mean": 0.0584,
+    "n_low_mean": 0.0389,
+    "n_high_mean": 0.0891
+  },
+  "name": "Greece",
+  "top_classes": [
+    {
+      "class": "Sclerophyllous vegetation",
+      "area_pct": 17.64
+    },
+    {
+      "class": "Broad-leaved forest",
+      "area_pct": 9.71
+    },
+    {
+      "class": "Non-irrigated arable land",
+      "area_pct": 8.95
+    },
+    {
+      "class": "Land principally occupied by agriculture with natural vegetation",
+      "area_pct": 8.72
+    },
+    {
+      "class": "Transitional woodland-shrub",
+      "area_pct": 8.23
+    }
+  ],
+  "runtime_s": 68.7
+}

@@ -1,0 +1,12 @@
+esa_code,label,n_min,n_best,n_max,source,notes
+10,Tree cover,0.080,0.120,0.160,Arcement-Schneider1989,Forest; dense trees with undergrowth
+20,Shrubland,0.040,0.060,0.100,Chow1959;Arcement-Schneider1989,Shrubs and transitional woodland
+30,Grassland,0.025,0.035,0.050,Chow1959,Natural and managed grassland
+40,Cropland,0.020,0.035,0.060,Arcement-Schneider1989;Chow1959,Arable and cultivated land
+50,Built-up,0.013,0.020,0.100,Kalyanapu2009;Schubert-Sanders2012,Urban; effective n raised by structures in 2D flood models
+60,Bare / sparse vegetation,0.020,0.030,0.045,Chow1959,Bare ground rock sparse vegetation
+70,Snow and ice,0.010,0.020,0.030,expert,Glaciers and perpetual snow
+80,Permanent water bodies,0.020,0.030,0.045,Chow1959,Lakes rivers reservoirs
+90,Herbaceous wetland,0.035,0.060,0.100,Chow1959;Arcement-Schneider1989,Marshes and saturated vegetation
+95,Mangroves,0.060,0.100,0.150,Arcement-Schneider1989,Not present in study area
+100,Moss and lichen,0.025,0.035,0.050,Chow1959,Tundra-type low vegetation

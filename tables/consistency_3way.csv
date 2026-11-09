@@ -1,0 +1,7 @@
+iso,name,pair,n_cells,bias,rmse,lin_ccc
+LU,Luxembourg,CORINE-ESA,259603,-0.0086,0.0325,0.717
+LU,Luxembourg,CORINE-CLCplus,259603,-0.0017,0.0252,0.822
+LU,Luxembourg,ESA-CLCplus,259603,0.007,0.0257,0.822
+ME,Montenegro,CORINE-ESA,1387179,-0.0115,0.0366,0.59
+ME,Montenegro,CORINE-CLCplus,1387179,-0.0057,0.0341,0.636
+ME,Montenegro,ESA-CLCplus,1387179,0.0058,0.0256,0.809

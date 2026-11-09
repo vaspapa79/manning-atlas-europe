@@ -1,0 +1,4 @@
+order_group,reaches,length_km,length_pct,n_low,n_best,n_high,mean_disch_cms
+1-2 headwater,4971,21542.0,82.4,0.04,0.06,0.1,0.392
+3-4 mid-order,937,3796.0,14.5,0.035,0.045,0.07,9.022
+5-6 lowland,186,800.0,3.1,0.028,0.035,0.05,96.972

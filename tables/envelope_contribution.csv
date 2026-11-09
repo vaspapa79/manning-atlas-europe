@@ -1,0 +1,44 @@
+class,area_frac,class_envelope_width,contribution
+Coniferous forest,0.1112,0.08,0.0089
+Non-irrigated arable land,0.1653,0.04,0.00661
+Broad-leaved forest,0.0798,0.08,0.00639
+Mixed forest,0.0423,0.08,0.00338
+Transitional woodland-shrub,0.0404,0.06,0.00243
+Discontinuous urban fabric,0.0232,0.079,0.00184
+Land principally occupied by agriculture with natural vegetation,0.0368,0.04,0.00147
+Pastures,0.0586,0.025,0.00146
+Complex cultivation patterns,0.0331,0.04,0.00132
+Sparsely vegetated areas,0.0321,0.03,0.00096
+Moors and heathland,0.0238,0.04,0.00095
+Peat bogs,0.0157,0.05,0.00079
+Natural grasslands,0.0293,0.025,0.00073
+Sclerophyllous vegetation,0.0148,0.045,0.00067
+Permanently irrigated land,0.0149,0.04,0.0006
+Water bodies,0.0176,0.025,0.00044
+Olive groves,0.0071,0.045,0.00032
+Bare rocks,0.0122,0.025,0.0003
+Industrial or commercial units,0.0044,0.069,0.0003
+Fruit trees and berry plantations,0.0059,0.045,0.00026
+Agro-forestry areas,0.0045,0.05,0.00023
+Vineyards,0.0056,0.04,0.00022
+Inland marshes,0.0019,0.065,0.00012
+Continuous urban fabric,0.0011,0.089,0.0001
+Rice fields,0.0011,0.065,7e-05
+Sport and leisure facilities,0.0018,0.03,5e-05
+Salt marshes,0.0008,0.065,5e-05
+Water courses,0.0018,0.025,5e-05
+Glaciers and perpetual snow,0.0021,0.02,4e-05
+Intertidal flats,0.0017,0.022,4e-05
+Mineral extraction sites,0.0011,0.032,4e-05
+Annual crops associated with permanent crops,0.0008,0.035,3e-05
+Beaches dunes sands,0.001,0.025,3e-05
+Road and rail networks and associated land,0.0006,0.039,2e-05
+Green urban areas,0.0004,0.035,2e-05
+Coastal lagoons,0.0009,0.017,2e-05
+Airports,0.0005,0.029,1e-05
+Burnt areas,0.0003,0.032,1e-05
+Estuaries,0.0005,0.017,1e-05
+Construction sites,0.0003,0.032,1e-05
+Port areas,0.0002,0.039,1e-05
+Dump sites,0.0002,0.032,1e-05
+Salines,0.0001,0.025,0.0

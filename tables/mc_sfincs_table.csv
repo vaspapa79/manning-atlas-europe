@@ -1,0 +1,17 @@
+Configuration,n (floodplain mean),area (km2),max depth (m)
+"uniform, low (n=0.041)",0.041,44.337,3.631
+"uniform, best (n=0.062)",0.062,45.56,3.997
+"uniform, high (n=0.093)",0.093,45.945,4.451
+"distributed, low",0.0408,37.803,3.381
+"distributed, best",0.0618,44.248,3.609
+"distributed, high",0.0934,45.608,3.945
+
+ensemble,area p05,area p50,area p95,90% band (% of median),area sd (km2)
+MC-I class-independent,43.429,44.518,45.06,3.7,0.5202
+MC-C perfectly correlated,41.356,44.566,45.413,9.1,1.292
+
+CSI_distributed_low_vs_high,0.829
+CSI_uniform_low_vs_high,0.965
+CSI_uniform_best_vs_distributed_best,0.971
+indeterminate_frac_mc_independent,0.04
+indeterminate_frac_mc_correlated,0.089

@@ -1,0 +1,103 @@
+{
+  "patch": {
+    "shannon_diversity": 2.436,
+    "src_row": 1680,
+    "src_col": 1960,
+    "x_min_3035": 5321100.0,
+    "y_max_3035": 2048100.0,
+    "n_classes": 17
+  },
+  "n_classes_in_patch": 17,
+  "n_mc_per_structure": 200,
+  "deterministic": {
+    "det_dist_best": {
+      "tag": "det_dist_best",
+      "n_mean": 0.0618258658008658,
+      "area_km2": 44.2475,
+      "max_depth_m": 3.609142303466797,
+      "mean_depth_m": 0.5859639644622803
+    },
+    "det_dist_high": {
+      "tag": "det_dist_high",
+      "n_mean": 0.09340205627705629,
+      "area_km2": 45.6075,
+      "max_depth_m": 3.945284843444824,
+      "mean_depth_m": 0.8291499018669128
+    },
+    "det_dist_low": {
+      "tag": "det_dist_low",
+      "n_mean": 0.040759415584415586,
+      "area_km2": 37.8025,
+      "max_depth_m": 3.3806676864624023,
+      "mean_depth_m": 0.44001293182373047
+    },
+    "det_uniform_best": {
+      "tag": "det_uniform_best",
+      "n_mean": 0.06200000000000001,
+      "area_km2": 45.56,
+      "max_depth_m": 3.996500015258789,
+      "mean_depth_m": 0.7370547652244568
+    },
+    "det_uniform_high": {
+      "tag": "det_uniform_high",
+      "n_mean": 0.09299999999999999,
+      "area_km2": 45.945,
+      "max_depth_m": 4.451192855834961,
+      "mean_depth_m": 0.9906390905380249
+    },
+    "det_uniform_low": {
+      "tag": "det_uniform_low",
+      "n_mean": 0.041,
+      "area_km2": 44.3375,
+      "max_depth_m": 3.6305809020996094,
+      "mean_depth_m": 0.5299198031425476
+    }
+  },
+  "mc_independent": {
+    "area_mean": 44.412625000000006,
+    "area_std": 0.5201614040915882,
+    "area_p05_p50_p95": [
+      43.42925,
+      44.5175,
+      45.060125
+    ],
+    "maxdepth_p05_p50_p95": [
+      3.537130069732666,
+      3.6434874534606934,
+      3.7722785472869873
+    ],
+    "nmean_p05_p50_p95": [
+      0.059639315153927994,
+      0.06559306124425779,
+      0.07214509835857146
+    ]
+  },
+  "mc_correlated": {
+    "area_mean": 44.203312499999996,
+    "area_std": 1.292018378758211,
+    "area_p05_p50_p95": [
+      41.35575,
+      44.56625,
+      45.41287499999999
+    ],
+    "maxdepth_p05_p50_p95": [
+      3.4766250610351563,
+      3.6471900939941406,
+      3.8539752006530756
+    ],
+    "nmean_p05_p50_p95": [
+      0.04895150582657755,
+      0.06458019799532605,
+      0.08417416252612943
+    ]
+  },
+  "csi": {
+    "distributed_low_vs_high": 0.8288658663596996,
+    "uniform_low_vs_high": 0.9650125149635433,
+    "uniform_best_vs_distributed_best": 0.9711918349429324
+  },
+  "indeterminate_frac_of_everflooded": {
+    "mc_independent": 0.039831588277657745,
+    "mc_correlated": 0.08924245760845628
+  }
+}

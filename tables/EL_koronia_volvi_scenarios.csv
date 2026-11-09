@@ -1,0 +1,4 @@
+scenario,lake_class,n_low,n_best,n_high,delta_pct
+as mapped (CLC2018 open water),512 water bodies,0.0383,0.0584,0.0899,0.0
+lake bed reclassified to inland marshes,411 inland marshes,0.039,0.0599,0.0925,2.5
+lake bed reclassified to sparsely vegetated areas,333 sparsely vegetated,0.0383,0.0584,0.0901,-0.0

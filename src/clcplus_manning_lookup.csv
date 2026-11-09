@@ -1,0 +1,12 @@
+clcplus_code,label,n_min,n_best,n_max,source,notes
+1,Sealed,0.013,0.020,0.100,Kalyanapu2009;Schubert-Sanders2012,Urban/impervious; effective n raised by structures
+2,Woody needle-leaved trees,0.080,0.120,0.160,Arcement-Schneider1989,Coniferous forest
+3,Woody broadleaved deciduous trees,0.080,0.120,0.160,Arcement-Schneider1989,Deciduous forest
+4,Woody broadleaved evergreen trees,0.080,0.120,0.160,Arcement-Schneider1989,Evergreen broadleaved forest
+5,Low-growing woody plants,0.040,0.060,0.100,Chow1959;Arcement-Schneider1989,Shrubland
+6,Permanent herbaceous,0.025,0.035,0.050,Chow1959,Grassland/pasture
+7,Periodically herbaceous,0.020,0.035,0.060,Arcement-Schneider1989;Chow1959,Cropland/seasonal
+8,Lichens and mosses,0.025,0.035,0.050,Chow1959,Tundra-type
+9,Non- and sparsely-vegetated,0.020,0.030,0.045,Chow1959,Bare/sparse
+10,Water,0.020,0.030,0.045,Chow1959,Open water
+11,Snow and ice,0.010,0.020,0.030,expert,Glaciers/perpetual snow

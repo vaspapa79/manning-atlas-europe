@@ -1,0 +1,17 @@
+iso,name,klass,CORINE_pct,ESA_pct
+LU,Luxembourg,Urban,10.5,5.58
+LU,Luxembourg,Cropland,36.99,18.03
+LU,Luxembourg,Grassland,15.62,29.51
+LU,Luxembourg,Forest,36.29,46.51
+LU,Luxembourg,Shrub,0.23,0.0
+LU,Luxembourg,Bare,0.0,0.04
+LU,Luxembourg,Wetland,0.02,0.0
+LU,Luxembourg,Water,0.35,0.34
+ME,Montenegro,Urban,1.9,0.78
+ME,Montenegro,Cropland,14.15,1.13
+ME,Montenegro,Grassland,9.32,31.47
+ME,Montenegro,Forest,41.13,60.87
+ME,Montenegro,Shrub,21.89,2.81
+ME,Montenegro,Bare,8.72,0.2
+ME,Montenegro,Wetland,0.9,0.72
+ME,Montenegro,Water,1.98,2.03

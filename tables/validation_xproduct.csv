@@ -1,0 +1,3 @@
+iso,name,n_cells,mean_ESA,mean_CORINE,bias_CORINE_minus_ESA,RMSE,MAE,pearson_r,r2
+LU,Luxembourg,259603,0.0734,0.065,-0.0084,0.0263,0.0145,0.808,0.653
+ME,Montenegro,1387179,0.0861,0.076,-0.0101,0.0307,0.0193,0.688,0.474

@@ -1,0 +1,12 @@
+scenario,n_applied,n_used_by_solver,flooded_area_km2,mean_depth_m,max_depth_m
+low,0.041,0.041,44.337,0.53,3.631
+best,0.062,0.062,45.56,0.737,3.997
+high,0.093,0.093,45.945,0.991,4.451
+
+area_spread_pct_of_best,3.5
+maxdepth_spread_pct_of_best,20.5
+CSI_low_high,0.965
+CSI_low_best,0.973
+CSI_high_best,0.992
+model,SFINCS v2.4.0 Galibier
+roughness_input,"binary float32 manningfile, verified from output"

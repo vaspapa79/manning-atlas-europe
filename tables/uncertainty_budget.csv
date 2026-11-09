@@ -1,0 +1,10 @@
+scope,source,low,high,reference,spread_abs,spread_pct_of_best,note
+Continental (39 countries),Look-up table (low-high envelope),0.0408,0.0926,0.062,0.0519,83.6,Eq. 2 bounds applied simultaneously
+Luxembourg,Look-up table (low-high envelope),0.043,0.0987,0.065,0.0557,85.7,Eq. 2 bounds applied simultaneously
+Luxembourg,Land-cover product (CORINE / ESA / CLCplus),0.065,0.0736,0.065,0.0086,13.2,"three independent classifiers, 100 m grid"
+Luxembourg,Aggregation rule (arithmetic vs conveyance),0.0734,0.0754,0.0734,0.002,2.7,Eq. 6 vs Eq. 7
+Luxembourg,Spatial resolution (10 m vs 100 m),0.0734,0.0734,0.0734,0.0,0.0,same product; std falls 16%
+Montenegro,Look-up table (low-high envelope),0.0508,0.1096,0.076,0.0588,77.4,Eq. 2 bounds applied simultaneously
+Montenegro,Land-cover product (CORINE / ESA / CLCplus),0.076,0.0875,0.076,0.0115,15.1,"three independent classifiers, 100 m grid"
+Montenegro,Aggregation rule (arithmetic vs conveyance),0.0861,0.0876,0.0861,0.0015,1.7,Eq. 6 vs Eq. 7
+Montenegro,Spatial resolution (10 m vs 100 m),0.0861,0.0861,0.0861,0.0,0.0,same product; std falls 15%

@@ -1,0 +1,6 @@
+landscape,dominance,centre_lat,centre_lon,n_classes
+arable plain,1.0,39.5,22.374,3
+forested valley,1.0,41.495,24.438,4
+maquis / shrub,0.944,35.262,24.829,5
+peri-urban lowland,0.981,37.996,23.726,10
+lacustrine wetland,0.981,40.657,23.511,9

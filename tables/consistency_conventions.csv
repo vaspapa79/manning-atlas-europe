@@ -1,0 +1,5 @@
+iso,name,convention,n_cells,mean_CORINE,mean_ESA,bias,rmse,mae,pearson_r,spearman_rho,lin_ccc
+LU,Luxembourg,A_parameter_average,259603,0.065,0.0734,-0.0084,0.0263,0.0145,0.808,0.672,0.782
+LU,Luxembourg,B_majority_class,259603,0.065,0.0731,-0.0081,0.0319,0.013,0.739,0.634,0.726
+ME,Montenegro,A_parameter_average,1387179,0.076,0.0861,-0.0101,0.0307,0.0193,0.688,0.699,0.66
+ME,Montenegro,B_majority_class,1387179,0.076,0.0874,-0.0114,0.0365,0.021,0.618,0.577,0.592

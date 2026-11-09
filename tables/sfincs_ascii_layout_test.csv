@@ -1,0 +1,10 @@
+manning_file_layout,chars_per_line,flooded_area_km2,max_depth_m
+1 value per line,7,15.857,3.271
+10 values per line,69,16.793,3.073
+80 values per line,559,16.562,3.141
+"240 per line, %.3f (as published)",1439,16.218,3.158
+"240 per line, %.4f",1679,17.345,3.093
+"240 per line, %.6f",2159,16.477,3.214
+
+note,uniform Manning n=0.093 everywhere; identical .dep/.msk/.src/.dis/.inp; SFINCS v2.4.0; results bit-identical across 1/4/6 threads for a fixed file
+spread_pct_of_mean,9.0

@@ -1,0 +1,6 @@
+extent,area_km2,n_as_mapped,n_lake_as_marsh,delta_pct
+lake footprint,104.0,0.03,0.06,100.0
+lake + 2 km shore,281.2,0.0406,0.0517,27.3
+lake + 5 km shore,631.3,0.054,0.059,9.1
+Mygdonia basin window,2164.2,0.0584,0.0599,2.5
+Greece (national mean),131387.9,0.0584,0.0584,0.04

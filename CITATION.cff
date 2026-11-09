@@ -1,0 +1,81 @@
+cff-version: 1.2.0
+message: "If you use this code or the atlas, please cite both the paper and the archive."
+title: "An uncertainty-aware Manning's n atlas for Europe"
+abstract: "Pipeline, look-up tables and derived tables for a harmonized, openly released Manning's roughness atlas covering 39 European states at 100 m, with an explicit lower, best and upper bound per land-cover class, and its hydraulic propagation over Greek river basins."
+type: software
+license: MIT
+repository-code: "https://github.com/vaspapa79/manning-atlas-europe"
+keywords:
+  - Manning roughness
+  - flood inundation
+  - CORINE Land Cover
+  - uncertainty
+  - SFINCS
+  - Greece
+authors:
+  - family-names: Papaioannou
+    given-names: Vassilios
+    affiliation: "Information Technologies Institute, Centre for Research and Technology Hellas (CERTH-ITI), Thessaloniki, Greece"
+    email: vaspapa@iti.gr
+  - family-names: Valsamis
+    given-names: Dimitrios
+    affiliation: "Information Technologies Institute, Centre for Research and Technology Hellas (CERTH-ITI), Thessaloniki, Greece"
+    email: dvalsamis@iti.gr
+  - family-names: Anagnostopoulos
+    given-names: Christos
+    affiliation: "Information Technologies Institute, Centre for Research and Technology Hellas (CERTH-ITI), Thessaloniki, Greece"
+    email: anagn_c@iti.gr
+  - family-names: Moumtzidou
+    given-names: Anastasia
+    affiliation: "Information Technologies Institute, Centre for Research and Technology Hellas (CERTH-ITI), Thessaloniki, Greece"
+    email: moumtzid@iti.gr
+  - family-names: Gialampoukidis
+    given-names: Ilias
+    affiliation: "Information Technologies Institute, Centre for Research and Technology Hellas (CERTH-ITI), Thessaloniki, Greece"
+    email: heliasgj@iti.gr
+  - family-names: Vrochidis
+    given-names: Stefanos
+    affiliation: "Information Technologies Institute, Centre for Research and Technology Hellas (CERTH-ITI), Thessaloniki, Greece"
+    email: stefanos@iti.gr
+  - family-names: Kompatsiaris
+    given-names: Ioannis
+    affiliation: "Information Technologies Institute, Centre for Research and Technology Hellas (CERTH-ITI), Thessaloniki, Greece"
+    email: ikom@iti.gr
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.XXXXXXX
+    description: "Zenodo archive of the atlas rasters, derived tables and code"
+preferred-citation:
+  type: article
+  title: "Uncertainty-aware Manning's roughness for the river basins of Greece, from a harmonized European atlas"
+  journal: "Journal of Hydrology: Regional Studies"
+  year: 2026
+  authors:
+    - family-names: Papaioannou
+      given-names: Vassilios
+      affiliation: "Information Technologies Institute, Centre for Research and Technology Hellas (CERTH-ITI), Thessaloniki, Greece"
+      email: vaspapa@iti.gr
+    - family-names: Valsamis
+      given-names: Dimitrios
+      affiliation: "Information Technologies Institute, Centre for Research and Technology Hellas (CERTH-ITI), Thessaloniki, Greece"
+      email: dvalsamis@iti.gr
+    - family-names: Anagnostopoulos
+      given-names: Christos
+      affiliation: "Information Technologies Institute, Centre for Research and Technology Hellas (CERTH-ITI), Thessaloniki, Greece"
+      email: anagn_c@iti.gr
+    - family-names: Moumtzidou
+      given-names: Anastasia
+      affiliation: "Information Technologies Institute, Centre for Research and Technology Hellas (CERTH-ITI), Thessaloniki, Greece"
+      email: moumtzid@iti.gr
+    - family-names: Gialampoukidis
+      given-names: Ilias
+      affiliation: "Information Technologies Institute, Centre for Research and Technology Hellas (CERTH-ITI), Thessaloniki, Greece"
+      email: heliasgj@iti.gr
+    - family-names: Vrochidis
+      given-names: Stefanos
+      affiliation: "Information Technologies Institute, Centre for Research and Technology Hellas (CERTH-ITI), Thessaloniki, Greece"
+      email: stefanos@iti.gr
+    - family-names: Kompatsiaris
+      given-names: Ioannis
+      affiliation: "Information Technologies Institute, Centre for Research and Technology Hellas (CERTH-ITI), Thessaloniki, Greece"
+      email: ikom@iti.gr
