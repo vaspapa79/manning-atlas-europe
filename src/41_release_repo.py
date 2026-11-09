@@ -328,6 +328,7 @@ freeware licence.
 
 GITIGNORE = """# credentials, never commit
 clms_apikey.json
+zenodo_token.json
 *.pem
 *.key
 

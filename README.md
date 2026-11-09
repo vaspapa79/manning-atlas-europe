@@ -15,7 +15,7 @@ river corridors and floodplain landscapes.
 
 | path | contents |
 | --- | --- |
-| `src/` | the pipeline, numbered in run order (66 files), including `pipeline_country.py`, the standalone single-country pipeline |
+| `src/` | the pipeline, numbered in run order (67 files), including `pipeline_country.py`, the standalone single-country pipeline |
 | `src/manning_lookup.csv` | the 44-class look-up table: lower, best and upper *n* with the literature source for every class |
 | `src/esa_manning_lookup.csv`, `src/clcplus_manning_lookup.csv` | the equivalent tables for the ESA WorldCover and CLC+ Backbone legends |
 | `tables/` | every derived table behind a figure or a table of the paper (37 files), plus the provenance manifest |
